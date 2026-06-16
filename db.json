@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": "default-admin-id",
+      "email": "admin@smarthub.io",
+      "password": "$2a$10$C1WJp8WKMS3jO7nldp1rYeuT56FZ/sK2DwiWhaF526UsD9OZfJL7e",
+      "createdAt": "2026-06-11T17:28:22.860Z"
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2026-06-11T17:37:24.985Z",
+      "type": "hardware_online",
+      "message": "Hardware connection status changed to: Online",
+      "source": "System"
+    },
+    {
+      "timestamp": "2026-06-11T17:35:50.121Z",
+      "type": "hardware_offline",
+      "message": "Hardware connection status changed to: Offline",
+      "source": "System"
+    },
+    {
+      "timestamp": "2026-06-11T17:34:43.315Z",
+      "type": "autonomous_transition",
+      "message": "Hardware light toggled ON by Autonomous Smart Mode Active",
+      "source": "Autonomous"
+    },
+    {
+      "timestamp": "2026-06-11T17:33:44.963Z",
+      "type": "hardware_online",
+      "message": "Hardware connection status changed to: Online",
+      "source": "System"
+    },
+    {
+      "timestamp": "2026-06-11T17:29:23.084Z",
+      "type": "manual_control",
+      "message": "Website sent manual override command: Turn Light OFF",
+      "source": "Website"
+    }
+  ],
+  "telemetry": [
+    {
+      "timestamp": "2026-06-11T17:29:22.864Z",
+      "ldr": 720,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:30:22.873Z",
+      "ldr": 720,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:31:22.877Z",
+      "ldr": 720,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:32:22.885Z",
+      "ldr": 720,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:33:22.889Z",
+      "ldr": 720,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:34:22.889Z",
+      "ldr": 607,
+      "pirCount": 1,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:35:22.905Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:36:22.910Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:37:22.914Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:38:22.914Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:39:22.918Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:40:22.933Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:41:22.943Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:42:22.950Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:43:22.955Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:44:22.966Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:45:22.973Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:46:22.973Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:47:22.975Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    },
+    {
+      "timestamp": "2026-06-11T17:48:22.983Z",
+      "ldr": 700,
+      "pirCount": 0,
+      "power": 5,
+      "energySaved": 0.045
+    }
+  ]
+}
